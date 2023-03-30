@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Arktonid Republic",
+		"leaderName": "Apollunos",
+		"adjective": ["Arktonid"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "coming soon",
+		"startIntroPart2": "coming soon",
+		
+		"declaringWar": "The bear wakes from his slumber and searches for food. He has found it in your lands. Prepare for war.",
+		"attacked": "You will regret poking the bear!",
+		"defeated": "The bear returns to his hibernation, put to rest for the time being.",
+		"introduction": "The bear stirs in his sleep. It is wise to not wake him from his rest. Welcome to Arktonia, traveler.",
+		
+		"neutralHello": ["Welcome, again.", "The traveler makes his appearance", "Greetings traveler"],
+		"neutralLetsHearIt": ["You have my interest.","How can we help?","Please, speak your piece."],
+		"neutralNo": ["Our nation cannot accept such a request.","I must decline.","I cannot afford that."],
+		"neutralYes": ["We graciously accept.","Of course, yes.","That is very good."],
+
+		"hateHello": "You have angered the bear. Be brief",
+		"hateLetsHearIt": ["I don't have all day.","What is it?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Pardasu","Nibiru","Kasanu","Epekyro","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	}
+]
