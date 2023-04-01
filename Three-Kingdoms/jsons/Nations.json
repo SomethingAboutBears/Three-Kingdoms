@@ -6,7 +6,7 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "coming soon",
+		"startIntroPart1": "The Arktonid Republic, known colloquially as its shorthand name Arktonia, is an egalitarian multiracial worker's republic, with communities in several planets intergalactically. The republic is largely pacifistic, maintaining their independence through diplomacy and an emphasis on free trade. [NEWLINE] As the politics and technology on Earth advanced through the decades, many people left in search for better conditions and a new start. Among the successful prospects, a faction of progressive industry workers and engineers emerged on a planet they named Pardasu. This faction colonized and expanded to other planets, and soon became players in the regional markets. This led them to form an alliance, and later a political union, with the much larger Arktonid clan. The Arktonids adopted the ideals and customs of the worker's republic they united with, creating the Arktonid Republic. [NEWLINE] The government structure is highly centralized, with a strong central government, and highly specialized local governments. This system is designed to let each citizen in the republic follow the career path they desire over what's profitable, an ideal known as Eudaimonia. Although this government has led to a tolerant and culturally advanced society, its pacifist nature makes it hard to create a strong army, which has led to several skirmishes with other nations over the border planet of Kadas, kept in Arktonid hands only via strong diplomatic ties.",
 		"startIntroPart2": "coming soon",
 		
 		"declaringWar": "The bear wakes from his slumber and searches for food. He has found it in your lands. Prepare for war.",
@@ -17,22 +17,22 @@
 		"neutralHello": ["Welcome, again.", "The traveler makes his appearance", "Greetings traveler"],
 		"neutralLetsHearIt": ["You have my interest.","How can we help?","Please, speak your piece."],
 		"neutralNo": ["Our nation cannot accept such a request.","I must decline.","I cannot afford that."],
-		"neutralYes": ["We graciously accept.","Of course, yes.","That is very good."],
+		"neutralYes": ["We graciously accept.","This will serve us both well.","Absolutely!"],
 
 		"hateHello": "You have angered the bear. Be brief",
 		"hateLetsHearIt": ["I don't have all day.","What is it?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateNo": ["Quit wasting our time.","Your offer insults us.","Try again."],
+		"hateYes": ["Sure.","That will do.","Good enough."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "A wise decision. Let us focus on better matters.",
+		"tradeRequest": "We have come to you, traveler, bearing a gift.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Pardasu","Nibiru","Kasanu","Epekyro","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Pardasu","Kasanu","Nebiru","Epekyro","Ertakas","Arktoura","Ouaiti","Pyris","Idim",
+			"Phynos","Phaethos","Aruna","Kuwul-Apadan","Enesidaonos","Disu","Lahazi","Khunsu","Nin-Shes","Souda",
+			"Antikethyros","Suhuya","Centaurus","Mulapin","Baktiu","Kidinu","Hadjat","Konimos","Kharknomis","Amisa",
+			"Enkhymion","Hapa-Uwasha","Masartos","Kadas","Namuru","Kseis","Kasyro","Hyperborea"]
 	}
 ]
