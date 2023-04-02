@@ -27,8 +27,8 @@
 		"afterPeace": "A wise decision. Let us focus on better matters.",
 		"tradeRequest": "We have come to you, traveler, bearing a gift.",
 		
-		"outerColor": [49,77,115],
-		"innerColor": [222,178,107],
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
 		"uniqueName": "Law of Apāsan",
 		"uniqueText": "Each citizen produces one culture after researching Drama and Poetry, and one science after researching Education",
 		"uniques": ["[+1 Culture] per [1] population [in all cities] <after discovering [Drama and Poetry]>","[+1 Culture] per [1] population [in all cities] <after discovering [Education]>"],
