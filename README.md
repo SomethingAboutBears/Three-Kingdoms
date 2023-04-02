@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Arktonid Test Mod
 
-An example mod for Unciv.
-
-For information on how to build and use mods, please refer to [the wiki](https://github.com/yairm210/Unciv/wiki/Mods)
+Nation from a worldbuilding exercise, using it to test that i am competent
