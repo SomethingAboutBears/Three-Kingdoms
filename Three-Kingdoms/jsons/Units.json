@@ -9,6 +9,7 @@
 		"strength": 5,
 		"cost": 25,
 		"promotions": ["Scouting I"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects"]
 		"attackSound": "nonmetalhit"
 	}
 ]
