@@ -2,7 +2,7 @@
 	{
 		"name": "Surhu",
 		"replaces": "Monument",
-		"uniqueTo": "Arktonid",
+		"uniqueTo": "Arktonid Republic",
 		"cost": 40,
 		"culture": 2,
 		"maintenance": 1,
