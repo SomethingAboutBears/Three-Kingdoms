@@ -6,8 +6,8 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
 		
 		"declaringWar": "The bear wakes from his slumber and searches for food. He has found it in your lands. Prepare for war.",
 		"attacked": "You will regret poking the bear!",
@@ -26,7 +26,7 @@
 		
 		"afterPeace": "A wise decision. Let us focus on better matters.",
 		"tradeRequest": "We have come to you, traveler, bearing a gift.",
-		
+
 		"outerColor": [222,178,107],
 		"innerColor": [49,77,115],
 		"uniqueName": "Law of Apāsan",
