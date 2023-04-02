@@ -14,7 +14,7 @@
 		"defeated": "The bear returns to his hibernation, put to rest for the time being.",
 		"introduction": "The bear stirs in his sleep. It is wise to not wake him from his rest. Welcome to Arktonia, traveler.",
 		
-		"neutralHello": ["Welcome, again.", "The traveler makes his appearance", "Greetings traveler"],
+		"neutralHello": "The traveler makes his appearance",
 		"neutralLetsHearIt": ["You have my interest.","How can we help?","Please, speak your piece."],
 		"neutralNo": ["Our nation cannot accept such a request.","I must decline.","I cannot afford that."],
 		"neutralYes": ["We graciously accept.","This will serve us both well.","Absolutely!"],
