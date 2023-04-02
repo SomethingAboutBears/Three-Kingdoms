@@ -3,11 +3,11 @@
 		"name": "Arktonid Republic",
 		"leaderName": "Apollunos",
 		"adjective": ["Arktonid"],
-		"startBias": ["Grassland"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "The Arktonid Republic, known colloquially as its shorthand name Arktonia, is an egalitarian multiracial worker's republic, with communities in several planets intergalactically. The republic is largely pacifistic, maintaining their independence through diplomacy and an emphasis on free trade. [NEWLINE] As the politics and technology on Earth advanced through the decades, many people left in search for better conditions and a new start. Among the successful prospects, a faction of progressive industry workers and engineers emerged on a planet they named Pardasu. This faction colonized and expanded to other planets, and soon became players in the regional markets. This led them to form an alliance, and later a political union, with the much larger Arktonid clan. The Arktonids adopted the ideals and customs of the worker's republic they united with, creating the Arktonid Republic. [NEWLINE] The government structure is highly centralized, with a strong central government, and highly specialized local governments. This system is designed to let each citizen in the republic follow the career path they desire over what's profitable, an ideal known as Eudaimonia. Although this government has led to a tolerant and culturally advanced society, its pacifist nature makes it hard to create a strong army, which has led to several skirmishes with other nations over the border planet of Kadas, kept in Arktonid hands only via strong diplomatic ties.",
-		"startIntroPart2": "coming soon",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
 		"declaringWar": "The bear wakes from his slumber and searches for food. He has found it in your lands. Prepare for war.",
 		"attacked": "You will regret poking the bear!",
@@ -29,7 +29,9 @@
 
 		"outerColor": [222,178,107],
 		"innerColor": [49,77,115],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Law of Apāsan",
+		"uniqueText": "Each citizen produces one culture after researching Drama and Poetry, and one science after researching Education",
+		"uniques": ["[+1 Culture] per [1] population [in all cities] <after discovering [Drama and Poetry]>","[+1 Culture] per [1] population [in all cities] <after discovering [Education]>"],
 		"cities": ["Pardasu","Kasanu","Nebiru","Epekyro","Ertakas","Arktoura","Ouaiti","Pyris","Idim",
 			"Phynos","Phaethos","Aruna","Kuwul-Apadan","Enesidaonos","Disu","Lahazi","Khunsu","Nin-Shes","Souda",
 			"Antikethyros","Suhuya","Centaurus","Mulapin","Baktiu","Kidinu","Hadjat","Konimos","Kharknomis","Amisa",
