@@ -68,8 +68,8 @@
 		"outerColor": [247,207,137],
 		"innerColor": [201,29,9],
 		"uniqueName": "Sword of Heaven",
-		"uniqueText": "Upon the outbreak of war, gain a cavalry unit in every Tuntian. ",
-		"uniques": ["Free [Mounted] appears in [All Tuntian] <upon declaring war with a major Civilization>"],
+		"uniqueText": "Upon the outbreak of war, gain a melee unit in every Tuntian. Start with Honor unlocked",
+		"uniques": ["Free [Melee] appears in [All Tuntian] <upon declaring war with a major Civilization>", "Starts with [Honor] adopted"],
 		"cities": ["Xuchang","Luoyang"]
 	},
 	{
@@ -173,8 +173,8 @@
 		"outerColor": [222,178,107],
 		"innerColor": [49,77,115],
 		"uniqueName": "",
-		"uniqueText": "",
-		"uniques": [""],
+		"uniqueText": "+50% culture in all cities with a wonder when at peace, -25% culture in all cities when at war.",
+		"uniques": ["[+50]% [Culture] [in all cities with a world wonder] <when not at war>","[-25]% [Culture] [in all cities] <when at war>"],
 		"cities": [""]
 	},
 	{
@@ -208,8 +208,8 @@
 		"outerColor": [222,178,107],
 		"innerColor": [49,77,115],
 		"uniqueName": "",
-		"uniqueText": "",
-		"uniques": [""],
+		"uniqueText": "All units built in cities next to a river or on the coast start with the Amphibious promotion. Double experience for all naval units during golden ages.",,
+		"uniques": ["","[+100]% Experience <for [Water] units> <during a Golden Age"],
 		"cities": [""]
 	},
 	{
