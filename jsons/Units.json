@@ -11,5 +11,18 @@
 		"promotions": ["Scouting I"],
 		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Ying Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Cao Wei",
+		"replaces": "Horseman",
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"movement": 4,
+		"strength": 14,
+		"cost": 80,
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "horse"
 	}
 ]

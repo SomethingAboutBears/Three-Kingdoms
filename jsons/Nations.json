@@ -36,5 +36,426 @@
 			"Phynos","Phaethos","Aruna","Kuwul-Apadan","Enesidaonos","Disu","Lahazi","Khunsu","Nin-Shes","Souda",
 			"Antikethyros","Suhuya","Centaurus","Mulapin","Baktiu","Kidinu","Hadjat","Konimos","Kharknomis","Amisa",
 			"Enkhymion","Hapa-Uwasha","Masartos","Kadas","Namuru","Kseis","Kasyro","Hyperborea"]
+	},
+	{
+		"name": "Cao Wei",
+		"leaderName": "Cao Cao",
+		"adjective": ["Wei"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [247,207,137],
+		"innerColor": [201,29,9],
+		"uniqueName": "Sword of Heaven",
+		"uniqueText": "Upon the outbreak of war, gain a cavalry unit in every Tuntian. ",
+		"uniques": ["Free [Mounted] appears in [All Tuntian] <upon declaring war with a major Civilization>"],
+		"cities": ["Xuchang","Luoyang"]
+	},
+	{
+		"name": "Shu Han",
+		"leaderName": "Liu Bei",
+		"adjective": ["Shu"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Jizhou",
+		"leaderName": "Yuan Shao",
+		"adjective": ["Jizhou"],
+		"startBias": ["Grassland","Hills"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Jingzhou",
+		"leaderName": "Liu Biao",
+		"adjective": ["Jingzhou"],
+		"startBias": ["Grassland","River"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Eastern Wu",
+		"leaderName": "Sun Quan",
+		"adjective": ["Sun Clan"],
+		"startBias": ["Hills","Avoid [Coast]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Yizhou",
+		"leaderName": "Liu Zhang",
+		"adjective": ["Yizhou"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Hanning",
+		"leaderName": "Zhang Lu",
+		"adjective": ["Hanning"],
+		"startBias": ["Avoid [Forest]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Liangzhou",
+		"leaderName": "Ma Teng",
+		"adjective": ["Liangzhou"],
+		"startBias": ["Plains","Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Jiaozhou",
+		"leaderName": "Shi Xie",
+		"adjective": ["Jiaozhou"],
+		"startBias": ["River","Coast","Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Kuaiji",
+		"leaderName": "Wang Lang",
+		"adjective": ["Kuaiji"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Zhong Dynasty",
+		"leaderName": "Yuan Shu",
+		"adjective": ["Zhong"],
+		"startBias": ["Grassland","River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
+	},
+	{
+		"name": "Yangzhou",
+		"leaderName": "Liu Yao",
+		"adjective": ["Yangzhou"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [222,178,107],
+		"innerColor": [49,77,115],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": [""],
+		"cities": [""]
 	}
+
 ]
