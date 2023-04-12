@@ -2,8 +2,9 @@
 	{
 		"name": "Tuntian",
 		"uniqueTo": "Cao Wei",
-		"terrainsCanBeBuiltOn": ["Hills","Forest","Desert","Tundra","Snow"],
-		"turnsToBuild": 5,
+		"terrainsCanBeBuiltOn": ["Hills","Forest","Desert","Tundra","Snow","Jungle"],
+		"requiredTech": "Engineering",
+		"turnsToBuild": 7,
 		"food": 1,
         "production": 1,
 		"uniques": ["[1 Food, 1 Production] for each adjacent [Farm]","Cannot be built on [All] tiles <with [1] to [6] neighboring [Tuntian] tiles>","Pillaging this improvement yields approximately [+10 Gold, +10 Science]", "Costs [3] [Gold] per turn when in your territory","Costs [6] [Gold] per turn when in your territory<while at war>"]

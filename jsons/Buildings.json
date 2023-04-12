@@ -1,21 +1,25 @@
 [
 	{
-		"name": "Surhu",
-		"replaces": "Monument",
-		"uniqueTo": "Arktonid Republic",
-		"cost": 40,
-		"culture": 2,
-		"maintenance": 1,
-		"uniques":["[+1 Culture] from [Forest] tiles [in this city]"]
-	},
-	{
-		"name": "River Port",
-		"replaces": "Harbor",
-		"uniqueTo": "Eastern Wu",
+		"name": "Inventor's Workshop",
+		"replaces": "Workshop",
+		"uniqueTo": "Shu Han",
+		"maintenance": 2,
+		"production": 2,
+		"science": 2,
+		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"cost": 120,
-		"maintenance": 2,
-		"uniques":["Must be on [[River],[Coastal]]","[+1 Production] from [Water resource] tiles [in this city]","[+1 Production] from [River] tiles [in this city]","Connects trade routes over water"],
+		"percentStatBonus": {"production": 10},
+		"uniques":["New [Siege] units start with [15] Experience [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Natural Harbor",
+		"replaces": "Harbor",
+		"uniqueTo": "Jiaozhou",
+		"hurryCostModifier": 25,
+		"cost": 150,
+		"uniques":["Must be next to [Coast]","[+1 Production] from [Water resource] tiles [in this city]","[+1 Food] from [River] tiles [in this city]","Connects trade routes over water"],
 		"requiredTech": "Compass"
 	}
 ]

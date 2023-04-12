@@ -1,18 +1,5 @@
 [
 	{
-		"name": "Claw Guard",
-		"unitType": "Scout",
-		"uniqueTo": "Arktonid Republic",
-		"replaces": "Scout",
-		"obsoleteTech": "Scientific Theory",
-		"movement": 3,
-		"strength": 5,
-		"cost": 25,
-		"promotions": ["Scouting I"],
-		"uniques": ["May upgrade to [Archer] through ruins-like effects"],
-		"attackSound": "nonmetalhit"
-	},
-	{
 		"name": "Ying Cavalry",
 		"unitType": "Mounted",
 		"uniqueTo": "Cao Wei",
@@ -24,5 +11,5 @@
 		"cost": 80,
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "horse"
-	}
+	},
 ]

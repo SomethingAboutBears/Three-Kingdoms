@@ -1,43 +1,5 @@
 [
 	{
-		"name": "Arktonid Republic",
-		"leaderName": "Apollunos",
-		"adjective": ["Arktonid"],
-		"startBias": ["Forest"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "test",
-		"startIntroPart2": "test",
-		
-		"declaringWar": "The bear wakes from his slumber and searches for food. He has found it in your lands. Prepare for war.",
-		"attacked": "You will regret poking the bear!",
-		"defeated": "The bear returns to his hibernation, put to rest for the time being.",
-		"introduction": "The bear stirs in his sleep. It is wise to not wake him from his rest. Welcome to Arktonia, traveler.",
-		
-		"neutralHello": "The traveler makes his appearance",
-		"neutralLetsHearIt": ["You have my interest.","How can we help?","Please, speak your piece."],
-		"neutralNo": ["Our nation cannot accept such a request.","I must decline.","I cannot afford that."],
-		"neutralYes": ["We graciously accept.","This will serve us both well.","Absolutely!"],
-
-		"hateHello": "You have angered the bear. Be brief",
-		"hateLetsHearIt": ["I don't have all day.","What is it?","Go on."],
-		"hateNo": ["Quit wasting our time.","Your offer insults us.","Try again."],
-		"hateYes": ["Sure.","That will do.","Good enough."],
-		
-		"afterPeace": "A wise decision. Let us focus on better matters.",
-		"tradeRequest": "We have come to you, traveler, bearing a gift.",
-
-		"outerColor": [222,178,107],
-		"innerColor": [49,77,115],
-		"uniqueName": "Law of Apāsan",
-		"uniqueText": "Each citizen produces one culture after researching Drama and Poetry, and one science after researching Education",
-		"uniques": ["[+1 Culture] per [1] population [in all cities] <after discovering [Drama and Poetry]>","[+1 Culture] per [1] population [in all cities] <after discovering [Education]>"],
-		"cities": ["Pardasu","Kasanu","Nebiru","Epekyro","Ertakas","Arktoura","Ouaiti","Pyris","Idim",
-			"Phynos","Phaethos","Aruna","Kuwul-Apadan","Enesidaonos","Disu","Lahazi","Khunsu","Nin-Shes","Souda",
-			"Antikethyros","Suhuya","Centaurus","Mulapin","Baktiu","Kidinu","Hadjat","Konimos","Kharknomis","Amisa",
-			"Enkhymion","Hapa-Uwasha","Masartos","Kadas","Namuru","Kseis","Kasyro","Hyperborea"]
-	},
-	{
 		"name": "Cao Wei",
 		"leaderName": "Cao Cao",
 		"adjective": ["Wei"],
@@ -65,12 +27,11 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [247,207,137],
-		"innerColor": [201,29,9],
+		"outerColor": [201,29,9],
+		"innerColor": [247,207,137],
 		"uniqueName": "Sword of Heaven",
-		"uniqueText": "Upon the outbreak of war, gain a melee unit in every Tuntian. Start with Honor unlocked",
-		"uniques": ["Free [Melee] appears in [All Tuntian] <upon declaring war with a major Civilization>", "Starts with [Honor] adopted"],
-		"cities": ["Xuchang","Luoyang"]
+		"uniques": ["Free [Great General] appears <upon declaring war with a major Civilization>", "Starts with [Honor] adopted","Great General provides double combat bonus"],
+		"cities": ["Luoyang","Xuchang",]
 	},
 	{
 		"name": "Shu Han",
@@ -100,53 +61,17 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [222,178,107],
-		"innerColor": [49,77,115],
-		"uniqueName": "",
-		"uniqueText": "",
-		"uniques": [""],
-		"cities": [""]
+		"outerColor": [255,210,229],
+		"innerColor": [67,164,157],
+		"uniqueName": "Benevolent Mandate",
+		"uniques": ["[+100]% Production when constructing [Courthouse] [in annexed cities]","[+2 Happiness] <in cities with a [Courthouse]>","[+10]% [Production] <while the empire is happy>"],
+		"cities": ["Chengdu"]
 	},
 	{
 		"name": "Jizhou",
 		"leaderName": "Yuan Shao",
 		"adjective": ["Jizhou"],
 		"startBias": ["Grassland","Hills"],
-		"preferredVictoryType": "Domination",
-		
-		"startIntroPart1": "test",
-		"startIntroPart2": "test",
-		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
-		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "",
-		"tradeRequest": "",
-
-		"outerColor": [222,178,107],
-		"innerColor": [49,77,115],
-		"uniqueName": "",
-		"uniqueText": "",
-		"uniques": [""],
-		"cities": [""]
-	},
-	{
-		"name": "Jingzhou",
-		"leaderName": "Liu Biao",
-		"adjective": ["Jingzhou"],
-		"startBias": ["Grassland","River"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "test",
@@ -170,18 +95,53 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [222,178,107],
-		"innerColor": [49,77,115],
+		"outerColor": [255,255,173],
+		"innerColor": [4,4,2],
+		"uniqueName": "Coalition Against the Tyrant",
+		"uniqueText": "Allied City-States provide 33% of their GPT. Militaristic City-States provide troops twice as fast when at war with a common enemy, and gifted troops start with 15 XP.",
+		"uniques": ["Allied City-States provide [Gold] equal to [-33]% of what they produce for themselves","Military Units gifted from City-States start with [+15] XP","City-State territory always counts as friendly territory","Militaristic City-States grant units [2] times as fast when you are at war with a common nation"],
+		"cities": ["Ye"]
+	},
+	{
+		"name": "Jingzhou",
+		"leaderName": "Liu Biao",
+		"adjective": ["Jingzhou"],
+		"startBias": ["Grassland","River"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [144,127,203],
+		"innerColor": [62,34,17],
 		"uniqueName": "",
 		"uniqueText": "+50% culture in all cities with a wonder when at peace, -25% culture in all cities when at war.",
 		"uniques": ["[+50]% [Culture] [in all cities with a world wonder] <when not at war>","[-25]% [Culture] [in all cities] <when at war>"],
-		"cities": [""]
+		"cities": ["Xiangyang"]
 	},
 	{
 		"name": "Eastern Wu",
 		"leaderName": "Sun Quan",
-		"adjective": ["Sun Clan"],
-		"startBias": ["Hills","Avoid [Coast]"],
+		"adjective": ["Wu"],
+		"startBias": ["Coast","River"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "test",
@@ -205,19 +165,18 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [222,178,107],
-		"innerColor": [49,77,115],
+		"outerColor": [144,50,86],
+		"innerColor": [211,211,232],
 		"uniqueName": "",
-		"uniqueText": "All units built in cities next to a river or on the coast start with the Amphibious promotion. Double experience for all naval units during golden ages.",,
-		"uniques": ["","[+100]% Experience <for [Water] units> <during a Golden Age"],
-		"cities": [""]
+		"uniques": ["[Land] units gain the [Amphibious] promotion","[+100]% Experience <for [Water] units> <during a Golden Age","[+1 Production] from [River] tiles [in all cities]"],
+		"cities": ["Jianye","Wuchang"]
 	},
 	{
 		"name": "Yizhou",
 		"leaderName": "Liu Zhang",
 		"adjective": ["Yizhou"],
 		"startBias": ["Hills"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "test",
 		"startIntroPart2": "test",
@@ -244,8 +203,8 @@
 		"innerColor": [49,77,115],
 		"uniqueName": "",
 		"uniqueText": "",
-		"uniques": [""],
-		"cities": [""]
+		"uniques": ["[100]% Yield from every [Hills]","[+1 Gold, +2 Production] in cities on [Hills] tiles"],
+		"cities": ["Chengdu"]
 	},
 	{
 		"name": "Hanning",
@@ -277,10 +236,9 @@
 
 		"outerColor": [222,178,107],
 		"innerColor": [49,77,115],
-		"uniqueName": "",
-		"uniqueText": "",
-		"uniques": [""],
-		"cities": [""]
+		"uniqueName": "Way of the Five Pecks of Rice",
+		"uniques": ["[+1] population [in this city] <upon constructing [World Wonder]>","[-25]% Unhappiness from [Followers of the Majority Religion] [in all cities]"],
+		"cities": ["Hanzhong"]
 	},
 	{
 		"name": "Liangzhou",
@@ -313,9 +271,8 @@
 		"outerColor": [222,178,107],
 		"innerColor": [49,77,115],
 		"uniqueName": "",
-		"uniqueText": "",
-		"uniques": [""],
-		"cities": [""]
+		"uniques": ["[-50]% maintenance on road & railroads","[+50]% Production when constructing [Mounted] units [in all cities]", "[Gold] cost of purchasing [Mounted] units [-25]%"],
+		"cities": ["Wuwei"]
 	},
 	{
 		"name": "Jiaozhou",
@@ -349,7 +306,7 @@
 		"innerColor": [49,77,115],
 		"uniqueName": "",
 		"uniqueText": "",
-		"uniques": [""],
+		"uniques": ["[+25]% [Gold] from Trade Routes","[+1 Happiness] from every [Strategic resource]","[+1 Happiness] from every [Bonus resource]"],
 		"cities": [""]
 	},
 	{
