@@ -203,7 +203,7 @@
 		"innerColor": [49,77,115],
 		"uniqueName": "",
 		"uniqueText": "",
-		"uniques": ["[+1 Gold, +2 Production] in cities on [Hill] tiles"],
+		"uniques": ["[50]% Yield from every [Hill]","[+1 Gold, +2 Production] in cities on [Hill] tiles"],
 		"cities": ["Chengdu"]
 	},
 	{
