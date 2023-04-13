@@ -17,7 +17,7 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Dong Zhuo Faction",
 		"movement": 0,
-		"promotions": ["Unbuildable","Can be purchased with [1] [Population] [in all cities]","Requires at least [4] population","Can speed up construction of a building"],
+		"uniques": ["Unbuildable","Can be purchased with [1] [Population] [in all cities]","Requires at least [4] population","Can speed up construction of a building"],
 		"attackSound": "nonmetalhit"
 	},
 ]
