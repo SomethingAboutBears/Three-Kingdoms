@@ -21,5 +21,28 @@
 		"cost": 150,
 		"uniques":["Must be next to [Coast]","[+1 Production] from [Water resource] tiles [in this city]","[+1 Food] from [River] tiles [in this city]","Connects trade routes over water"],
 		"requiredTech": "Compass"
-	}
+	},
+	{
+		"name": "Guan",
+		"replaces": "Castle",
+		"uniqueTo": "Dong Zhuo Faction",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured","[+1 Food] from [Luxury resource] tiles [in this city]","[+1 Production] from [Strategic resource] tiles [in this city]","[+1 Production] from [Bonus resource] tiles [in this city]"]
+	},
+	{
+		"name": "Mei Fortress",
+		"uniqueTo": "Dong Zhuo Faction",
+		"cost": 125,
+		"cityStrength": 10,
+		"cityHealth": 25,
+		"percentStatBonus": {"production": 15},
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Castle] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Chivalry"
+	},
 ]
