@@ -130,7 +130,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [144,127,203],
+		"outerColor": [179,159,252],
 		"innerColor": [62,34,17],
 		"uniqueName": "",
 		"uniqueText": "+50% culture in all cities with a wonder when at peace, -25% culture in all cities when at war.",
@@ -341,14 +341,14 @@
 		"innerColor": [49,77,115],
 		"uniqueName": "",
 		"uniqueText": "Receive free science buildings in your capital as you research them.",
-		"uniques": ["Gain a free [Library] [in capital] <upon discovering [Writing]>","Gain a free [University] [in capital] <upon discovering [Education]>","Gain a free [Public School] [in capital] <upon discovering [Scientific Theory]>","Gain a free [Research Lab] [in capital] <upon discovering [Plastics]>"],
+		"uniques": ["Gain a free [Library] [in capital] <after discovering [Writing]>","Gain a free [University] [in capital] <after discovering [Education]>","Gain a free [Public School] [in capital] <after discovering [Scientific Theory]>","Gain a free [Research Lab] [in capital] <after discovering [Plastics]>"],
 		"cities": ["Kuaiji"]
 	},
 	{
 		"name": "Zhong Dynasty",
 		"leaderName": "Yuan Shu",
 		"adjective": ["Zhong"],
-		"startBias": ["Grassland","River"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "test",
