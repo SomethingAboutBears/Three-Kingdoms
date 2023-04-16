@@ -477,7 +477,7 @@
 		"outerColor": [30,30,30],
 		"innerColor": [228,14,19],
 		"uniqueName": "Reign of Terror",
-		"uniques": [""],
+		"uniques": ["[-25]% Unhappiness from [Population] [in all cities]","[+2 Gold] [in all cities]","[+15]% Strength <when attacking>","[-15]% Strength <when defending>"],
 		"cities": ["Chang'an","Xi'an"]
 	},
 	{
