@@ -405,7 +405,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [105,172,105],
+		"outerColor": [125,192,125],
 		"innerColor": [33,27,29],
 		"uniqueName": "",
 		"uniqueText": "",
@@ -440,7 +440,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [120,61,55],
+		"outerColor": [142,67,1],
 		"innerColor": [223,178,237],
 		"uniqueName": "",
 		"uniques": ["Double quantity of [Horses] produced"],
