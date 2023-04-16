@@ -10,8 +10,29 @@
 		"hurryCostModifier": 25,
 		"cost": 120,
 		"percentStatBonus": {"production": 10},
-		"uniques":["New [Siege] units start with [15] Experience [in this city]"],
+		"uniques":["New [Siege] units start with [15] Experience [in this city]","New [Cloud Ladder] units start with [15] Experience [in this city]"],
 		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Archery Field",
+		"uniqueTo": "Jizhou",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "New [Archery] units start with [15] Experience [in this city]"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Poetry Hall",
+		"uniqueTo": "Jingzhou",
+		"replaces": "Amphitheater",
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured","[+2 Culture] from [Rock Garden] tiles [in this city]"],
+		"requiredTech": "Drama and Poetry"
 	},
 	{
 		"name": "Natural Harbor",
