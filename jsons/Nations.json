@@ -442,8 +442,8 @@
 		"outerColor": [226,107,2],
 		"innerColor": [53,29,61],
 		"uniqueName": "",
-		"uniques": ["Double quantity of [Horses] produced"],
-		"cities": [""]
+		"uniques": ["Double quantity of [Horses] produced","Free [Worker] appears <after discovering Horseback Riding>"],
+		"cities": ["Shangdang"]
 	},
 	{
 		"name": "Dong Zhuo Faction",
@@ -509,7 +509,7 @@
 		"outerColor": [23,79,153],
 		"innerColor": [247,212,146],
 		"uniqueName": "",
-		"uniques": ["[+10]% Strength <for [5] turns> <upon declaring friendship>","[+15]% Strength <vs cities>"],
+		"uniques": ["[+10]% Strength <for [5] turns> <upon declaring friendship>","[+15]% Strength <vs cities>","[+1 Happiness] from all [Military] buildings <while at war>"],
 		"cities": ["Puyang"]
 	}
 ]
