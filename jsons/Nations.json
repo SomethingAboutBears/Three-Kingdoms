@@ -408,9 +408,8 @@
 		"outerColor": [186,234,172],
 		"innerColor": [33,27,29],
 		"uniqueName": "",
-		"uniqueText": "",
-		"uniques": [""],
-		"cities": [""]
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","May choose [1] additional belief(s) of any type when [enhancing] a religion","Starts with [Piety] adopted"],
+		"cities": ["Moling"]
 	},
 	{
 		"name": "Henei",
@@ -511,6 +510,6 @@
 		"innerColor": [247,212,146],
 		"uniqueName": "",
 		"uniques": ["[+10]% Strength <for [5] turns> <upon declaring friendship>","[+15]% Strength <vs cities>"],
-		"cities": [""]
+		"cities": ["Puyang"]
 	}
 ]
