@@ -510,8 +510,7 @@
 		"outerColor": [23,79,153],
 		"innerColor": [247,212,146],
 		"uniqueName": "",
-		"uniqueText": "",
-		"uniques": [""],
+		"uniques": ["[+10]% Strength <for [5] turns> <upon declaring friendship>","[+15]% Strength <vs cities>"],
 		"cities": [""]
 	}
 ]
