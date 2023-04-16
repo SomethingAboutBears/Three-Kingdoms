@@ -17,4 +17,16 @@
 		"faith": 2,
 		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
+	{
+		"name": "Five Cities Fortress",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+		"uniqueTo": "Hanning",
+		"replaces": "Fort",
+		"food": 1,
+		"faith": 2,
+		"turnsToBuild": 6,
+		"techRequired": "Engineering",
+		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%"],
+		"shortcutKey": "O"
+	},
 ]

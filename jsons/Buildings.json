@@ -44,6 +44,16 @@
 		"requiredTech": "Compass"
 	},
 	{
+		"name": "Terrace",
+		"replaces": "Granary",
+		"uniqueTo": "Kuaiji",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Strategic resource] tiles <in [Hill] tiles> [in this city]","[+1 Food] from [Bonus resource] tiles <in [Hill] tiles> [in this city]","[+1 Food] from [Luxury resource] tiles <in [Hill] tiles> [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
 		"name": "Guan",
 		"replaces": "Castle",
 		"uniqueTo": "Dong Zhuo Faction",
