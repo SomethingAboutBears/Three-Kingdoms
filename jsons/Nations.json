@@ -234,8 +234,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [54,56,66],
-		"innerColor": [196,250,255],
+		"outerColor": [65,76,64],
+		"innerColor": [196,255,233],
 		"uniqueName": "Way of the Five Pecks of Rice",
 		"uniques": ["[+1] population [in this city] <upon constructing [World Wonder]>","[-25]% Unhappiness from [Followers of the Majority Religion] [in all cities]"],
 		"cities": ["Hanzhong"]
@@ -337,7 +337,7 @@
 		"tradeRequest": "",
 
 		"outerColor": [32,141,159],
-		"innerColor": [132,116,89],
+		"innerColor": [66,58,44],
 		"uniqueName": "Scholasticism",
 		"uniqueText": "Receive free science buildings in your capital as you research them.",
 		"uniques": ["Gain a free [Library] [in capital] <after discovering [Writing]>","Gain a free [University] [in capital] <after discovering [Education]>","Gain a free [Public School] [in capital] <after discovering [Scientific Theory]>","Gain a free [Research Lab] [in capital] <after discovering [Plastics]>"],
@@ -441,7 +441,7 @@
 		"tradeRequest": "",
 
 		"outerColor": [120,31,25],
-		"innerColor": [203,58,217],
+		"innerColor": [203,158,217],
 		"uniqueName": "",
 		"uniques": ["Double quantity of [Horses] produced"],
 		"cities": [""]
