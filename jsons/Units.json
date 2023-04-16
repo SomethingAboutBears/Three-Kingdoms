@@ -82,6 +82,7 @@
 		"name": "Shi Ren",
 		"unitType": "Civilian",
 		"replaces": "Great Artist",
+		"uniqueTo": "Jingzhou",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Rock Garden] improvement <by consuming this unit>",
