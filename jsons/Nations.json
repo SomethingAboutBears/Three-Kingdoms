@@ -371,7 +371,7 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [176,187,179],
+		"outerColor": [157,198,197],
 		"innerColor": [75,50,79],
 		"uniqueName": "Superstitious Pretender",
 		"uniques": ["[+50]% Production when constructing [Civilian] units [in all cities]", "[+25]% of excess happiness converted to [Production]","[-15]% Strength <when fighting units from a Civilization with more Cities than you>"],
@@ -440,8 +440,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [120,31,25],
-		"innerColor": [203,158,217],
+		"outerColor": [120,61,55],
+		"innerColor": [223,178,237],
 		"uniqueName": "",
 		"uniques": ["Double quantity of [Horses] produced"],
 		"cities": [""]
